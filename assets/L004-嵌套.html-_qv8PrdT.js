@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-541b6094","path":"/less_scss/L004-%E5%B5%8C%E5%A5%97.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"less&scss/L004-嵌套.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28490152","path":"/%E4%BC%98%E5%8C%96/jsBench%E7%9A%84%E4%BD%BF%E7%94%A8.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"优化/jsBench的使用.md"}');export{e as data};

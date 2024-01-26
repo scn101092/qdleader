@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,d as o}from"./app-fr3Buw_y.js";const _={},s=o("p",null,"不放了 ～～",-1),n=o("p",null,"成功后 ，重启编辑器",-1),l=[s,n];function r(a,i){return t(),c("div",null,l)}const p=e(_,[["render",r],["__file","使用cocopilot.html.vue"]]);export{p as default};

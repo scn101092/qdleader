@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4357e017","path":"/es6/%E8%BE%83%E5%86%B7%E9%97%A8/ES11-matchAll.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"es6/较冷门/ES11-matchAll.md"}');export{e as data};

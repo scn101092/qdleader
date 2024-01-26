@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0d728fa3","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/N001-%E5%89%8D%E7%AB%AF%E5%B0%8F%E6%8A%80%E5%B7%A7.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"前端小tip/N001-前端小技巧.md"}');export{t as data};

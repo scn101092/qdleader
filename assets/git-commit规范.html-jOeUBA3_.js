@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1a1411ac","path":"/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/git-commit%E8%A7%84%E8%8C%83.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"前端规范/git-commit规范.md"}');export{t as data};

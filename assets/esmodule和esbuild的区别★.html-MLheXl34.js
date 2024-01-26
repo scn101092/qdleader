@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-721155fc","path":"/vite/esmodule%E5%92%8Cesbuild%E7%9A%84%E5%8C%BA%E5%88%AB%E2%98%85.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"vite/esmodule和esbuild的区别★.md"}');export{e as data};

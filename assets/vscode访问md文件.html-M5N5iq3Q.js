@@ -1,0 +1,2 @@
+import{_ as n,o as s,c as t,d as e}from"./app-fr3Buw_y.js";const c={},a=e("p",null,"商店里下载",-1),o=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`Markdown Preview Enhanced
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),d=e("p",null,"右键 打开 侧边预览即可",-1),l=[a,o,d];function _(r,i){return s(),t("div",null,l)}const m=n(c,[["render",_],["__file","vscode访问md文件.html.vue"]]);export{m as default};

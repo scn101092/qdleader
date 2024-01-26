@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-41f6e2d7","path":"/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/solid%E5%8E%9F%E5%88%99.html","title":"S.O.L.I.D.","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"设计原则/solid原则.md"}');export{e as data};

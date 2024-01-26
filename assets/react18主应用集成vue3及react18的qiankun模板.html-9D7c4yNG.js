@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,d as c}from"./app-fr3Buw_y.js";const n={},a=c("p",null,"https://github.com/qdleader/qiankun-pro",-1),o=[a];function r(s,l){return t(),_("div",null,o)}const i=e(n,[["render",r],["__file","react18主应用集成vue3及react18的qiankun模板.html.vue"]]);export{i as default};

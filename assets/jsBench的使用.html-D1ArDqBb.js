@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as _,d as e}from"./app-fr3Buw_y.js";const c={},n=e("p",null,"https://jsbench.me/",-1),o=e("p",null,"把要测试的对比代码片段放到网站上执行run，faster的即时间更快一些。",-1),r=[n,o];function l(a,h){return s(),_("div",null,r)}const f=t(c,[["render",l],["__file","jsBench的使用.html.vue"]]);export{f as default};

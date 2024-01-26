@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d38a56d8","path":"/vue3/elementPlus/elemnetPlus%E6%B1%89%E5%8C%96.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"vue3/elementPlus/elemnetPlus汉化.md"}');export{e as data};

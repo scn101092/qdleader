@@ -1,0 +1,2 @@
+import{_ as e,o as t,c as o,d as _,b as n}from"./app-fr3Buw_y.js";const s={},a=_("p",null,[n("#s006-不借助临时变量，进行整数交换 "),_("code",null," function swap(a,b) { b = b -a; a = a + b; b = a - b; return [a,b]; } ")],-1),c=_("pre",null,[_("code",null,`export.exports = swap;
+`)],-1),r=[a,c];function l(d,u){return t(),o("div",null,r)}const i=e(s,[["render",l],["__file","S006-不借助临时变量，进行两个整数交换.html.vue"]]);export{i as default};

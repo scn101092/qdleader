@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6d1fe785","path":"/Typescript/%E8%BF%9B%E9%98%B6/Partial.html","title":"Partial","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706239173000,"contributors":[{"name":"qdleader","email":"yk4545945@163.com","commits":1}]},"filePathRelative":"Typescript/进阶/Partial.md"}');export{t as data};
