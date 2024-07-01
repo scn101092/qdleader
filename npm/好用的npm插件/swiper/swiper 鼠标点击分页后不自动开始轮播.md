@@ -1,7 +1,0 @@
-
-
-```ts
-autoplay={{
-  disableOnInteraction: false,
-}}
-```
